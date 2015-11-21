@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dun\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="G:\github\Circular_reveal\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-6176670acd19241d43ff7b88089fa9060b8ae214.jar" />
+    </item>
+    <item
+        jar="G:\github\Circular_reveal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="G:\github\Circular_reveal\app\build\intermediates\pre-dexed\debug\classes-b4f08ae23f17f6f9041ba30f32a057feba6bbf06.jar" />
+    </item>
+    <item
+        jar="G:\github\Circular_reveal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="G:\github\Circular_reveal\app\build\intermediates\pre-dexed\debug\classes-cc2e0c70aa6c25fac3f9c8d35a9452553c8667e1.jar" />
+    </item>
+    <item
+        jar="G:\github\Circular_reveal\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="G:\github\Circular_reveal\app\build\intermediates\pre-dexed\debug\classes-6478e9ae9cc45c1a4147cd696685a977dbd7c659.jar" />
+    </item>
+    <item
+        jar="G:\github\Circular_reveal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="G:\github\Circular_reveal\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-8182080814749aec2247d1570eee314a0262ba82.jar" />
+    </item>
+    <item
+        jar="G:\github\Circular_reveal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="G:\github\Circular_reveal\app\build\intermediates\pre-dexed\debug\classes-4cc32a44dd50f7e85f91829fecaaf4d920ae4c86.jar" />
+    </item>
+
+</items>
